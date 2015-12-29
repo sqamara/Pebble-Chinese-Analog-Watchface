@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Amara Tech",
+    "longName": "Chinese Watch Face",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/chinese_watchface.png",
+                "menuIcon": true,
+                "name": "WATCHFACE",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Chinese WF",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "ecc8f112-318f-4ee2-be11-53c63b8a1139",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
